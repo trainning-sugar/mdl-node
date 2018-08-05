@@ -1,0 +1,20 @@
+{
+  "name": "mdl-node",
+  "version": "1.0.0",
+  "description": "[Markdown](https://es.wikipedia.org/wiki/Markdown) es un leguaje de marcado\r ligero muy popular entre developers, y es usado en un montón de plataformas que\r manejan texto plano en la web (GitHub, foros, blogs, ...).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trainning-sugar/mdl-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trainning-sugar/mdl-node/issues"
+  },
+  "homepage": "https://github.com/trainning-sugar/mdl-node#readme"
+}
